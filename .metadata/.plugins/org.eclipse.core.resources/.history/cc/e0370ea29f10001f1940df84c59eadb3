@@ -1,0 +1,32 @@
+package br.com.fiap.main;
+
+public class TesteBuscaSimples {                    
+	public static void main(String[] args) {
+
+             
+
+	   int[] vetor = {10, 20, 30, 40, 50}; // posições 0,1,2,3,4
+	
+	   int alvo = 30; // Valor a ser encontrado
+	
+	   int tamanhoVetor = 5; // Tamanho do vetor (número de elementos)
+	
+	   for(int i = 0; i < vetor.length; i++) {
+		   if(alvo == vetor[i]) {
+			   System.out.println("O Valor foi encontrado na posição" + vetor[i]);
+		   }
+		   
+		   
+	   }
+	
+	               // Loop para buscar o valor no vetor
+	
+	 
+	
+	              
+	}
+}
+
+ 
+
+    //Loop para buscar o valor no vetor que está no código do exercício anterior com um loop simples (por exemplo, um loop for) para percorrer o vetor e verificar se algum dos elementos é igual ao valor alvo. Nesse caso, você pode usar a variável inteira chamada tamanhoVetor para rastrear o tamanho do vetor.

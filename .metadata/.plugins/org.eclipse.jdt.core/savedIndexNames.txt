@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\abner\OneDrive\Documentos\Área de Trabalho\Abnerrrr\Projetos\AlgoritmoDeBuscaFiap\.metadata\.plugins\org.eclipse.jdt.core
+720520501.index
+1865797976.index
+2543719589.index
